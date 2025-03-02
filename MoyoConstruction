@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moyo Buildings</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Moyo Buildings</h1>
+            <p>Building the Future, One Project at a Time</p>
+        </div>
+    </header>
+
+    <div class="container">
+        <!-- Left-hand Side Menu -->
+        <aside class="sidebar">
+            <ul>
+                <li><a href="#civil-engineering">Civil Engineering</a></li>
+                <li><a href="#drainage-fittings">Drainage Fittings</a></li>
+                <li><a href="#steel-fittings">Steel Fittings</a></li>
+                <li><a href="#cdm">CDM</a></li>
+                <li><a href="#cam-designs">CAM Designs</a></li>
+            </ul>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- Company Introduction -->
+            <section class="introduction">
+                <h2>Welcome to Moyo Buildings</h2>
+                <p>
+                    Moyo Buildings is a leading construction company specializing in civil engineering, drainage systems, steel fittings, and construction design management (CDM). With over 20 years of experience, we are committed to delivering high-quality, sustainable, and innovative construction solutions tailored to meet the needs of our clients.
+                </p>
+                <p>
+                    Our team of experts ensures that every project is completed on time, within budget, and to the highest standards of safety and quality.
+                </p>
+            </section>
+
+            <!-- Stock Images -->
+            <section class="gallery">
+                <h2>Our Work</h2>
+                <div class="image-grid">
+                    <img src="https://via.placeholder.com/400x300?text=Construction+Site+1" alt="Construction Site 1">
+                    <img src="https://via.placeholder.com/400x300?text=Construction+Site+2" alt="Construction Site 2">
+                    <img src="https://via.placeholder.com/400x300?text=Construction+Site+3" alt="Construction Site 3">
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Moyo Buildings. All rights reserved.</p>
+    </footer>
+</body>
+</html>
